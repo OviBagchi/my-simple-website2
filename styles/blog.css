@@ -1,12 +1,12 @@
 div{
     background-color: brown;
+    padding: 20px;
+    margin-bottom: 10px;
+    color: aliceblue;
+    border-radius: 10px;
     
 }
-div h3{
-    color: antiquewhite;
-    padding: 20%;
-    font-size: 3rem;
-}
+
 
 
 div p{
